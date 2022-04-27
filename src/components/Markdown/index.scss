@@ -1,0 +1,16 @@
+.markdown {
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+
+    img, iframe {
+        width: 100%;
+        border-radius: 25px;
+    }
+}
